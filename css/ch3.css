@@ -16,6 +16,17 @@
 	background-color: rgba(0,0,0,0.3);
 }*/
 
+.lavender-container {
+	/* Box-model */
+	display: inline-block;
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 30px;
+	/* Typography */
+	/* Visual */
+	/* Misc */
+}
+
 /* 	=============================
 		TEXT STYLING
 	============================= */
@@ -25,21 +36,26 @@ h1 {
 }
 
 .lavender-point {
-	font-family: 'PT Serif Caption', serif;
-	font-size: 34px;
-	text-align: center;
-	line-height: 46px;
+	float: left;
+	width: 30%;
+	margin-top: 3px;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 30px;
 	color: #ffcaca;
 }
 
 .lavender-desc {
-	width: 66%;
+	float: left;
+	width: 31%;
 	margin-bottom: 10px;
-	margin-left: 17%;
+	margin-left: 1%;
 	font-family: 'PT Serif Caption', serif;
 	text-align: left;
-	font-size: 16px;
-	line-height: 23px;
+	font-size: 14px;
+	line-height: 21px;
 }
 
 .poem {
@@ -53,4 +69,12 @@ h1 {
 .quart-image {
 	width: 76%;
 	margin-left: 12%;
+}
+
+.lavender-youtube {
+	width: 25%;
+	margin-top: 21px;
+	height: auto;
+	float: right;
+	background-color: white;
 }
