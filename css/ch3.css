@@ -79,9 +79,18 @@ h1 {
 }
 
 .lavender-youtube {
+	margin-right: 2%;
 	width: 25%;
 	margin-top: 21px;
 	height: auto;
 	float: right;
-	background-color: white;
+	
+
+}
+
+.lavender-border {
+	border: 1px solid #ffe705;
+	border-radius: 7px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
 }
