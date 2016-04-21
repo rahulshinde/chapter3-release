@@ -737,7 +737,7 @@ a:hover {
 
 	.coming-soon {
 		position: fixed;
-		bottom: 10px;
+		bottom: 2px;
 		width: 100%;
 		display: block;
 		color: blue;
