@@ -27,6 +27,13 @@
 	/* Misc */
 }
 
+.border {
+	border: 1px solid #ffcaca;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+
 /* 	=============================
 		TEXT STYLING
 	============================= */
