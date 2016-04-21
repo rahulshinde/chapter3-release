@@ -185,11 +185,19 @@ h1 {
 
 @media (max-width: 400px) { 
 
-	.border {
-		border: none;
-		margin-bottom: 60px;
+	.lavender-point {
+		width: 90%;
+		margin-left: 5%;
+		font-size: 20px;
+		line-height: 30px;
 	}
 
+	.lavender-desc {
+		width: 90%;
+		margin-left: 5%;
+		font-size: 12px;
+		line-height: 18px;
+	}
 
 }
 
