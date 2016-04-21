@@ -142,6 +142,8 @@ h1 {
 		float: none;
 		width: 100%;
 		margin-left: 0;
+		padding: 0;
+		margin-left: 0;
 		margin-bottom: 30px;
 		font-family: 'PT Serif Caption', serif;
 		text-align: left;
@@ -179,4 +181,15 @@ h1 {
 
 
 }
+
+@media (max-width: 400px) { 
+
+	.border {
+		border: none;
+		margin-bottom: 60px;
+	}
+
+
+}
+
 
