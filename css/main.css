@@ -918,7 +918,8 @@ a:hover {
 	}
 
 	.about-link {
-		right:50px;
+		bottom: -10px;
+		right:10px;
 	}
 
 }
